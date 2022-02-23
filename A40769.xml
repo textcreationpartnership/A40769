@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithful compendium, of the birth, education, heroick exploits &amp; victories of His Royal Highness the Illustrious Prince James, Duke of York As also the full and just account of his kind reception, and high entertainment by the Scotch nobility at Edenburgh, the metropolitan city of Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40769</idno>
+            <idno type="STC">Wing F268A</idno>
+            <idno type="STC">ESTC R215034</idno>
+            <idno type="EEBO-CITATION">99827031</idno>
+            <idno type="PROQUEST">99827031</idno>
+            <idno type="VID">31443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1884:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithful compendium, of the birth, education, heroick exploits &amp; victories of His Royal Highness the Illustrious Prince James, Duke of York As also the full and just account of his kind reception, and high entertainment by the Scotch nobility at Edenburgh, the metropolitan city of Scotland.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31443:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 57 -->
+            <head>A FAITHFUL COMPENDIUM, OF THE Birth, Education, Heroick Exploits &amp; Victories OF <hi>His Royal Highneſs</hi> The Illuſtrious PRINCE JAMES, Duke of York.</head>
+            <head type="sub">AS ALSO The full and juſt Account of his kind Recep<g ref="char:EOLhyphen"/>tion, and high Entertainment by the Scotch Nobility at <hi>Edenburgh,</hi> the Metropoli<g ref="char:EOLhyphen"/>tan City of <hi>SCOTLAND.</hi>
+            </head>
+            <p>THe Illuſtrious Prince, <hi>James</hi> Duke of <hi>York</hi> Born on the 14 of <hi>October,</hi> in the Year of Mans redemption, 1633 and in the Eleventh Year of the Reign of his Royal Father <hi>Charles</hi> the Firſt, of ever glorious Memory, but no ſooner did this brance of Honour begin to floriſh in the peaceful Court: and raiſe his tender Virtues to ſuch good eſteeem, as made the wonder ſpread into the utmoſt Corners of the Frozen North, but envy pearch'd upon our glorious Iſle, and fate began to work three Kingdoms ruins; promp<g ref="char:EOLhyphen"/>ted on by thoſe ungrateful men, whom ſacred Oaths had bound with Lives and Fortunes, to defend what they endea<g ref="char:EOLhyphen"/>voured to deſtroy, for ſure it is both Heavens Laws, and thoſe of Princes here below, that are compact and regulated by the ſame, ought to be held more ſacred: then be thrown back into the Face of all preſerving juſtice, ſuch affronts are to om<g ref="char:EOLhyphen"/>nipotence as well as to his ſacred Vicegerents that command
+<pb n="2" facs="tcp:31443:2"/>
+               <!-- PDF PAGE 58 -->
+for him the Nations here on Earth, but to return his Royal Highneſs tho' in his tender years ſuſtained a feeling part of Grief, and danger in thoſe dire callamities raiſe high, with tides of plebean rage; the which ſo many years o're flowed the ſurface of our Albion with a Crimſon ſtream, whilſt thoſe infernal <hi>Nimrods</hi> hunted after Royal Blood: until at laſt (oh fatal to declare) the beſt of Kings fell by the worſt of Men, whilſt Heaven and Earth ſtood both amazed at ſuch impiety, and Natures mighty hinges Groaned, and weeping Clouds de<g ref="char:EOLhyphen"/>clared the ſpreading ſorrow, which ſince almighty vengeance has conffirmed how ſacred Kings lives ought to be held, after which his Highneſs miraculouſly eſcaping their Barbarous hands was obliged for his ſafety to forego his Native Land; and Croſs the ſwelling Floods: to ſeek adventure in the Neigh<g ref="char:EOLhyphen"/>bouring Kingdoms; where tho' but a ſtanger as to his per<g ref="char:EOLhyphen"/>ſon, yet the Royal accents of his Noble Soul had given Breath unto the loudeſt Trump of Fame, that welcomed ſuch great vertues, equal to the greatneſs of his Birth, for treacherous Fortune has not power to make a conqueſt over Candid Vir<g ref="char:EOLhyphen"/>tue: it ſtill mounts above her reach, and like to the Victori<g ref="char:EOLhyphen"/>ous Palm; tho' Laden round and preſſed with ponderous waights; yet dares the worſt, and ſtill aſcends to weave its Top among the Clouds; whilſt ſtormes beneath its branches loudly roar, and all the littel ſtreams of mallice leave their Channels dry, witneſs <hi>Spain,</hi> what worthy Praiſes there his Valliour won, his very name made haughty <hi>France</hi> to tremble and had his Royal courage been but back'd with Souldiers e<g ref="char:EOLhyphen"/>qual to its brave deſert the black Princes bold Atcheivements that procured the name of thunder-bolt in War, muſt have given place to his, and Bluſh to be out done; whilſt with his Sword he had cut out a laſting name in Charecters of Blood, but as it was, Fame owns him for her Son: for like to <hi>Mars.</hi> he fought even in the Mouth of ſlaughter; whilſt heaps of ſlain like ramparts hemed him in<g ref="char:punc">▪</g> and yet the power of <hi>France,</hi> nor <hi>Engliſh</hi> Rebels (for at that time they could be term'd no leſs) there in league durſt brave his noble fury, or once ſo much as hinder his retreat, but to come nearer home, after the thrice Bleſſed reſtoration of his Royal Brother, and our moſt ſacred King; whoſe daies be as the daies of Heaven, and boundleſs Bleſſing ſhower upon his Head, whilſt flaming Cherubims with joy and peace ſurround his Guarded Throne the <hi>Dutch</hi> having took breath after, their dreadful overthrow
+<pb n="3" facs="tcp:31443:2"/>
+               <!-- PDF PAGE 58 -->
+began again to put their former Indignities in uſe, and by baſe pretended priviledges, they ſo exasperated the Nation that has ſo long rod empreſs of the Flood; that it was the Royal pleaſure to proclaim a War, thereby to Curb the Inſo<g ref="char:EOLhyphen"/>lencies of the late deſtreſſed <hi>Hogen Mogens,</hi> in which his Royal Highneſs did command in cheif, whoſe conduct on the roal<g ref="char:EOLhyphen"/>ing Seas, in known unto the utmoſt limits of the yet known World, how bravely he behaved himſelf amongſt a Thou<g ref="char:EOLhyphen"/>ſand Fates: tho' dres'd in their moſt dreadful guiſes, and for his Kings his own and Countries Honour, undauntedly fought whilſt ſwift Wing'd Death Sung round his Royal Head, and Climbing Fires made all the Ocian ſeem to Blaze, whilſt Peals of Thundering Cannons from each quarter Belched diſ<g ref="char:EOLhyphen"/>tructive Flame, and ruin ſeemed to cover all whoſe force the <hi>Dutch</hi> no longer being able to reſiſt hoiſted their Sails; and with the remnant of their ſhattered naxy ſtood amain to ſhore leaving behind a number of their veſſels ſwallowed in the deep, beſides the number that were Captive made, theſe were brave cauſes worthy, <hi>Engliſh</hi> Valour at the higheſt, but 'tis obſerved, that envies Snakes Lurk too oft beneath the wreaths of Lawrels, that adorn the Conquering Brow, and yet true Worth in ſpite of thoſe, will find deſerved Praiſe; Fate has not power to tumble down, the ſtructure Fame has raiſed, 'twas in thoſe times that high applaunſes rung, and no Ecclipſes ſcreen'd the luſter of his rayes but all ſhewed bright as the meriddian Sun, and oh, that Heaven wou'd ſo Unite all hearts in peace and concord; that love and joy might run down much like a mighty ſtream, then vvould our Gold<g ref="char:EOLhyphen"/>en daies appear, and ſhovvers of Bleſſings would avvaight our Morning dauns and we might reſt ſecure beneath the Ever<g ref="char:EOLhyphen"/>laſting Goſpels Wings; then Hell in vain might try to make a ſeperation, all vvould turn to Paradice again, and the refor<g ref="char:EOLhyphen"/>med Church might juſtly Glory in her ſacred Beauty; vvhen all Endeavoured to promote her intereſt, no animoſities vvould then ariſe, but Calm vvould all the bluſtering Storms of State appear, and ſmiling mercy vvould conduct us ſafe to the bleſſed manſions of our Everlaſting habitations there, to ſing Ozanas vvith the Glorious Quiers of Saints above, theſe and ſuch like wiſhes ought to be the delight of all well af<g ref="char:EOLhyphen"/>fected ſubjects and with continual prayers ſhould implor Hea<g ref="char:EOLhyphen"/>ven conffirm the ſame, but that <hi>Scotland</hi> ſhould out do our Nation in gratitude and kindneſs ſeems moſt ſtrange, a
+<pb n="4" facs="tcp:31443:3"/>
+               <!-- PDF PAGE 59 -->
+people rough by nature and contemning art, under a frozen clime, which ſhould by conſequence make People harſh, and more uncivil? in reſpect wherefore it will not be a miſs here to incert the manner of his Highneſs reception, there more fully then hither to it has been publiſhed for the ſatisfaction of the curious.</p>
+            <p>His Royal Highneſs after his returning from beyond the Seas, was pleaſed, accompined with her Royal Highneſs, to take a progreſs into the North, to view, his Royal Grandfa<g ref="char:EOLhyphen"/>thers antient Kingdom, <hi>(viz) Scotland</hi> where after much re<g ref="char:EOLhyphen"/>ſpect and gratitude ſhewed to them through all the <hi>Engliſh</hi> Countries as they paſſed, they arrived at the famous Town of <hi>Barwick,</hi> where after ſome ſhort ſtay their Royal Highneſſes on the 22 of <hi>November,</hi> about 7 of the Clock in the Morn<g ref="char:EOLhyphen"/>ing parted in their Coach with their attendance, and a little diſtance on the borders, his Majeſties ſtanding forces of that Kingdom, commanded by the honourable Marqueſs <hi>Montroſs,</hi> were drawn up to receive them, with all imaginary expreſ<g ref="char:EOLhyphen"/>ſions of joy and reſpect; their Royal Highneſses having no ſooner paſſed through them, but were met and ſalluted by the Lord Chancellor, and 38 of the Lords of the privy coun<g ref="char:EOLhyphen"/>cil, with about 6 more of the cheif nobility of <hi>Scotland,</hi> who came attended with ſeveral hundreds of eminent Gentry, be<g ref="char:EOLhyphen"/>ſides freeholders and other, making in all a Body of about 2000 Horſe bravely accutered, the Nobility being on foot came up to their Royal Highneſses Coach, to pay their reſpect whereupon his Royal Highneſs was pleaſed to alight and re<g ref="char:EOLhyphen"/>ceive their compliements, which were that they conceived an unfeigned joy in his Royal highneſses preſance, and with all reſpect welcomed him in that Kingdom, the which his Roy<g ref="char:EOLhyphen"/>al Highneſs moſt kindly resented by many expreſſions, and was pleaſed to ſtand uncovered, until they had moſt of them kiſſed his hand, and paied the like to her Royal Highneſs in her Coach, after which his Royal Highneſs, nobly attended paſſed on to the Duke of <hi>Lawderdales</hi> Houſe, at Lethington ſome diſtance thence, where their Royal Higneſses with moſt of the nobility were highly entertained for ſeveral daies and to conclude a general joy ſpread every where, through all that Northern Kingdom, the which they were not wanting to expreſs with all the Pompous ſhews imaginable.</p>
+            <epigraph>
+               <q>
+                  <l>So may our peace and union ſtill grow great,</l>
+                  <l>And Albion floriſh in diſpite of fate.</l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
